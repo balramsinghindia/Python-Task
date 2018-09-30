@@ -1,6 +1,6 @@
-# Python Assignment
+# Python Application 
 
-This assignment involves writing Python code to extract information about jobs, people 
+This application involves writing Python code to extract information about jobs, people 
 and companies from data files and load them into a consistent SQL database. It is an 
 example of an Extract-Transform-Load (ETL) task. 
 
@@ -84,9 +84,3 @@ The assignment is worth 15% in total:
    * Clear writing
    * Good analysis of the problem
    * Good solutions proposed
-
-
-### Acknowledgements
-
-The people CSV file is derived from one distributed via github:
- https://github.com/lawlesst/vivo-sample-data/blob/master/data/csv/people.csv
