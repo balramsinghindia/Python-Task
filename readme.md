@@ -54,33 +54,3 @@ You will also submit the code you have written to solve this problem.  Your code
 functions and every function **must** include a suitable docstring that describes 
 what it does.  Each function should implement a logical part of the overall ETL process.
 
-## Additional Report 
-
-You should also submit a brief (1 page) report on the following topic:
-
-This is just a trial data set for this task.  The real data is much bigger, with around 10,000 
-people, 5,000 companies and 50,000 job listings.  Thinking about how you have implemented
-the ETL process, describe any problems that might arise with such a large data set and how
-you might have to modify your implementation to address these problems. 
-
-## Submission Summary
-
-You should submit:
-* your code to read and process the data and generate the output CSV file (a zip file)
-* the final CSV file report
-* your report on the larger scale problem (PDF, 1 page)
-
-## Grading
-
-The assignment is worth 15% in total:
-
-* Correctly generated CSV output file (5 marks)
-    * CSV will be re-generated from your code
-* Code quality and presentation (5 marks)
-    * Clear and readable
-    * Appropriate use of functions to break down the problem
-    * Documentation for all functions
-* Written report (5 marks)
-   * Clear writing
-   * Good analysis of the problem
-   * Good solutions proposed
